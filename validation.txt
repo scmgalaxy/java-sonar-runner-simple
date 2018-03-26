@@ -13,3 +13,5 @@ verify org.sonarqube:java-simple-sq-scanner:src/ComplexMethod.java
   measure lines is 28
   measure ncloc is 26
 stop server
+
+# This is test codee
