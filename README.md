@@ -1,4 +1,4 @@
-This example demonstrates how to analyze a simple Java project with the Sonar Scanner.
+This example demonstrates how to analyze adsdsd simple Java project with the Sonar Scanner.
 
 Prerequisites
 =============
